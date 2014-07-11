@@ -1,5 +1,5 @@
 /*
- * TODO　做成物件　偵測不一樣瀏覽器的規範與設定(Google/Firefox)
+ * TODO　偵測不一樣瀏覽器的規範與設定(Google/Firefox)
  */
 var RTCPeerConnection = null;
 var getUserMedia = null;
